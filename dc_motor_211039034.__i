@@ -1,0 +1,1 @@
+-c --device DARMP -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -o "dc_motor_211039034.o" --omf_browse "dc_motor_211039034.crf" --depend "dc_motor_211039034.d" "dc_motor_211039034.c"

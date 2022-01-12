@@ -1,0 +1,4 @@
+--device DARMP "startup.o" "dc_motor_211039034.o" --strict --scatter "dc_motor_211039034.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\dc_motor_211039034.map" -o "dc_motor_211039034.axf"

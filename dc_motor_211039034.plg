@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Keil\dc_motor_211039034.uvproj
+Project File Date:  01/12/2022
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling dc_motor_211039034.c...
+dc_motor_211039034.c(1): error:  #20: identifier "Interface" is undefined
+dc_motor_211039034.c(1): error:  #65: expected a ";"
+dc_motor_211039034.c(23): warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+Target not created
+Build target 'Target 1'
+compiling dc_motor_211039034.c...
+dc_motor_211039034.c(1): error:  #20: identifier "Interface" is undefined
+dc_motor_211039034.c(1): error:  #65: expected a ";"
+dc_motor_211039034.c(23): warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+Target not created
+Build target 'Target 1'
+compiling dc_motor_211039034.c...
+linking...
+Program Size: Code=816 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"dc_motor_211039034.axf" - 0 Error(s), 0 Warning(s).
